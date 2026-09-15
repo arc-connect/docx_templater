@@ -3,7 +3,7 @@ PATH
   specs:
     docx_templater (0.2.3)
       htmlentities (>= 4.3.1)
-      rubyzip (>= 2, < 4)
+      rubyzip (>= 3.4.0, < 4)
 
 GEM
   remote: https://rubygems.org/
